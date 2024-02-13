@@ -5,7 +5,7 @@ import * as io from 'socket.io-client'
 
 
 
-const socket = io.connect('http://localhost:3000')
+const socket = io.connect('https://chat-app-backend-s5js.onrender.com')
 function App() {
   const [sentMessage, setsentMessage] = useState<string>('')
   const [allMessages, setAllMessages] = useState<{ userId?: string; message: string, type: string }[]>([])
