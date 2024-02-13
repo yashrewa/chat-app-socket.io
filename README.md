@@ -27,11 +27,14 @@ yarn dev
 ```
 
 ## Technology used
-### Backend 
+
+## Application is written in Typescript
+
+#### Backend 
 * NodeJs
 * ExpressJs
 * Socket.io
-### Frontend
+#### Frontend
 * react18
 * TailwindCss
 
