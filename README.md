@@ -28,7 +28,7 @@ yarn dev
 
 ## Technology used
 
-## Application is written in Typescript
+### Application is written in Typescript
 
 #### Backend 
 * NodeJs
